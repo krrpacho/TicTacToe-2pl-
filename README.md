@@ -1,2 +1,2 @@
-tictactoe if you have somebody to play with:)
+tictactoe if you have somebody to play with :)
 
